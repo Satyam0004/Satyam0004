@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🔥 About Me
-- 👨‍🎓 2nd Year CSE student with strong fundamentals in **DSA & OOP**
+- 👨‍🎓 3rd Year CSE student with strong fundamentals in **DSA & OOP**
 - ☕ Passionate about **Java Backend Development**
 - 🌱 Currently learning **Spring Boot Microservices**
 - 🧠 Love solving problems on **LeetCode / Codeforces**
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📈 Coding Profiles
-- 🟠 LeetCode: _Add your link_
+- 🟠 LeetCode: https://leetcode.com/u/satyamkmr04
 - 🔵 Codeforces: _Add your link_
 - 🟢 GeeksforGeeks: _Add your link_
 
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: _Add your LinkedIn URL_
-- 📧 Email: _Add your email_
+- 📧 Email: satyamkmr04@gmail.com
 
 ---
 
